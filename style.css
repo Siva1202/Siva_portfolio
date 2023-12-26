@@ -1,0 +1,46 @@
+.bg{
+
+    background-image: url(https://www.springboard.com/blog/wp-content/uploads/2021/06/ways-ai-is-being-used-in-web-development.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+
+}
+
+h6{
+   color: red;
+}
+h1{
+    color: cornsilk;
+}
+p{
+    color: wheat;
+}
+h2{
+    color: cadetblue;
+}
+.whatsapp_cg{
+    width: 10em;
+    height: auto;
+    border-radius: 15px;
+    background-color: rgb(11, 242, 11);
+}
+.aj_about{
+    color: black;
+   font-size: 20px;
+}
+.para_era{
+    color: rgb(196, 114, 8);
+}
+.about_pg{
+    background-image: url(https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-development.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact_col{
+    color: white;
+}
+.bg_colo{
+    background-color: black;
+}
